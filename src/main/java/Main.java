@@ -12,8 +12,6 @@ import ru.sbrf.example.putting_taking.QueueTaking;
 import ru.sbrf.example.user.User;
 
 import java.util.Date;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.LinkedBlockingQueue;
 
 import static java.lang.Thread.sleep;
 
