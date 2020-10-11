@@ -7,4 +7,4 @@ public interface Taking {
     void stopTaking();
 }
 
-////
+//
